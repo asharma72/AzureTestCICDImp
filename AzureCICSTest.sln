@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCICSTest", "AzureCICSTest\AzureCICSTest.csproj", "{BC0DC82C-69D0-4116-812F-F6A2F3DEAF10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC0DC82C-69D0-4116-812F-F6A2F3DEAF10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0DC82C-69D0-4116-812F-F6A2F3DEAF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0DC82C-69D0-4116-812F-F6A2F3DEAF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0DC82C-69D0-4116-812F-F6A2F3DEAF10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BCAA83B-5837-4053-90C6-5B5352FD683D}
+	EndGlobalSection
+EndGlobal
